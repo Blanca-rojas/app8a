@@ -5,7 +5,7 @@ xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.ponegab.app8"
 version ="1.0.0">
 
-<name>app-8-Geolocalizacion con google maps</name>
+<name>app8 Geolocalizacion con google maps</name>
 
 <description>
 Muestra la ubicacion del dispositivo de acuerdo al GPS y en el mapa de google maps
@@ -36,11 +36,8 @@ Blanca Lidia Arias Rojas
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
-<plugin name="cordova-plugin-geolocation"source="npm"/>-->
-
 
 <!--Colocar icono de la app-->
-
 <icon src="res/android/mdpi.png"/>
 
 </widget>
